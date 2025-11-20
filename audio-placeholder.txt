@@ -1,0 +1,4 @@
+# Place your audio file here
+# Name it: audio.mp3
+
+This is a placeholder. Replace this file with your actual audio file (MP3, OGG, or WAV format).
